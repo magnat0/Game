@@ -12,8 +12,8 @@ namespace Game
     {
         Ground,
         Obstacle,
-        Opponent,  // не ставить на левитирующие платформы, со временем слетают
-        Opponent2, // не ставить на левитирующие платформы, со временем слетают
+        Opponent, 
+        Opponent2,
         KeySubject,
         LevitatingHorisontal1,
         LevitatingHorisontal2,
